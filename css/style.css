@@ -1,0 +1,26 @@
+body {
+  background-image: url(../imgs/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+* {
+  color: #ffffff;
+}
+#formBody {
+  background-color: #131212f1;
+  width: 450px;
+  height: auto;
+  border-radius: 10px;
+}
+.topLogo {
+  width: 180px;
+}
+#btnColor {
+  border-color: #ff0043;
+  color: #ff0043;
+}
+#btnColor:hover {
+  background-color: #ff0043;
+  color: #ffffff;
+}
